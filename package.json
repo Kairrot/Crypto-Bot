@@ -1,0 +1,12 @@
+{
+  "name": "Crypto-Bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Kairrot/Crypto-Bot.git",
+  "author": "Kairrot <boutonnet.valentin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "web3": "^1.5.2"
+  }
+}
